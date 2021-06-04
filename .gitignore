@@ -1,2 +1,7 @@
 node_modules
 .vscode
+.eslintrc.json
+jest.config.js
+package.json
+tsconfig.json
+yarn.lock
